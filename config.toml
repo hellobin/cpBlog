@@ -1,7 +1,7 @@
 baseurl = "http://www.wanglijuan.com/"
 languageCode = "en-us"
 title = "设计∙人生"
-theme = "icaus"
+theme = "icarus"
 
 [permalinks]
     post = "/:year/:month/:day/:slug"
