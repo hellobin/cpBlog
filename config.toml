@@ -1,0 +1,86 @@
+baseurl = "http://www.wanglijuan.com/"
+languageCode = "en-us"
+title = "设计∙人生"
+theme = "icaus"
+
+[permalinks]
+    post = "/:year/:month/:day/:slug"
+
+
+[params]
+    # Tell me who you are
+    author = "欧巴塞罗那"
+    bio = "设计师 - 吃货 - 爱玩"
+    location = "Shang hai"
+    site_description = ""
+    copyright  = "Powered by [Hugo](//gohugo.io). Theme by [icarus](https://github.com/digitalcraftsman/hugo-icarus-theme)."
+    avatar = "css/images/avatar.png"
+
+    # Format dates with Go's time formatting
+    date_format = "2006/01/02"
+
+# Create custom menu entries by defining a label and a link for
+# them. Since you can also link posts, you've the option the
+# place the links before or after them.
+#
+# E.g.: "Home" appears before all linked posts in the menu
+# and "Tags" / "Categories" after them.
+[[params.menu]]
+    before = true
+    label  = "Home"
+    link   = "/"
+
+[[params.menu]]
+    before = false
+    label  = "Tags"
+    link   = "tags/"
+
+[[params.menu]]
+    before = false
+    label  = "Categories"
+    link   = "categories/"
+
+# Enter a link for the follow button on the left
+#[params.profile]
+#   follow_button = "https://github.com/digitalcraftsman"
+
+
+[social]
+# Add your social network accounts to the profile section on the left
+# by entering your username. The links to your account will be
+# create automatically.
+    github          = ""
+    bitbucket       = ""
+    jsfiddle        = ""
+    codepen         = ""
+    foursquare      = ""
+    dribbble        = ""
+    deviantart      = ""
+    behance         = ""
+    flickr          = ""
+    instagram       = ""
+    youtube         = ""
+    vimeo           = ""
+    vine            = ""
+    medium          = ""
+    wordpress       = ""
+    tumblr          = ""
+    xing            = ""
+    linkedin        = ""
+    slideshare      = ""
+    stackoverflow   = ""
+    reddit          = ""
+    pinterest       = ""
+    googleplus      = ""
+    facebook        = ""
+    facebook_admin  = ""
+    twitter_domain  = ""
+    twitter         = ""
+
+# Enable and disable widgets for the right sidebar
+[params.widgets]
+    recent_articles = true
+    categories = false
+    tags = false
+    tag_cloud = true
+
