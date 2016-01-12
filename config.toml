@@ -41,8 +41,8 @@ duoshuoShortname = "wanglijuan"
     link   = "about/"
 
 # Enter a link for the follow button on the left
-#[params.profile]
-#   follow_button = "https://github.com/digitalcraftsman"
+[params.profile]
+   follow_button = "http://weibo.com/laoshiduanzi"
 
 
 [social]
@@ -76,6 +76,8 @@ duoshuoShortname = "wanglijuan"
     facebook_admin  = ""
     twitter_domain  = ""
     twitter         = ""
+    weibo           = "laoshiduanzi"
+    qq              = "1009255715"
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
