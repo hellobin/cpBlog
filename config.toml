@@ -2,22 +2,22 @@ baseurl = "http://www.wanglijuan.com/"
 languageCode = "zh-cn"
 title = "设计∙人生"
 theme = "icarus"
+duoshuoShortname = "wanglijuan"
 
 [permalinks]
     post = "/:year/:month/:day/:slug"
 
 
 [params]
-    # Tell me who you are
     author = "欧巴塞罗那"
     bio = "设计师 - 吃货 - 爱玩"
     location = "Shang hai"
     site_description = ""
     copyright  = "Powered by [Hugo](//gohugo.io). Theme by [icarus](https://github.com/digitalcraftsman/hugo-icarus-theme)."
     avatar = "css/images/avatar.png"
-
     # Format dates with Go's time formatting
     date_format = "2006/01/02"
+    duoshuoShortname = "wanglijuan"
 
 # Create custom menu entries by defining a label and a link for
 # them. Since you can also link posts, you've the option the
@@ -32,13 +32,13 @@ theme = "icarus"
 
 [[params.menu]]
     before = false
-    label  = "Tags"
-    link   = "tags/"
+    label  = "Categories"
+    link   = "categories/"
 
 [[params.menu]]
     before = false
-    label  = "Categories"
-    link   = "categories/"
+    label  = "About"
+    link   = "about/"
 
 # Enter a link for the follow button on the left
 #[params.profile]
