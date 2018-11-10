@@ -17,7 +17,8 @@ title = "关于我"
 * 1991.8 ~ 2010.9 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;江苏•沭阳
 * 2010.9 ~ 2014.6 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;江苏•徐州•工程学院•平面设计
 * 2014.1.1 ~ ever &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;设计师&程序员的爱情
-* 2014.7 ~ now &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;上海•闸(静)北(安)
+* 2014.7 ~ 2016.7 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;上海•闸(静)北(安)
+* 2016.7 ~ now &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;江苏•苏州
 
 工作经历  
       
@@ -26,3 +27,5 @@ title = "关于我"
 &emsp;&emsp;&emsp;&emsp;
 * 微众传媒(上海)   
   &emsp;&emsp;&emsp;&emsp;--\-\-\-不懂运营的设计师不是好文案
+* 橘子股份(苏州)   
+  &emsp;&emsp;&emsp;&emsp;--\-\-\-向设计管理进化
