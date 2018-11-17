@@ -2,7 +2,7 @@ baseurl = "http://wanglijuan.com/"
 languageCode = "zh-cn"
 title = "设计∙人生"
 theme = "icarus"
-duoshuoShortname = "wanglijuan"
+paginate = 6
 
 [permalinks]
     post = "/:year/:month/:day/:slug"
@@ -11,13 +11,14 @@ duoshuoShortname = "wanglijuan"
 [params]
     author = "欧巴塞罗那"
     bio = "设计师 - 吃货 - 爱玩"
-    location = "Shang hai"
+    location = "Su Zhou"
     site_description = ""
     copyright  = "Powered by [Hugo](//gohugo.io). Theme by [icarus](https://github.com/digitalcraftsman/hugo-icarus-theme)."
     avatar = "css/images/avatar.png"
     # Format dates with Go's time formatting
     date_format = "2006/01/02"
-    duoshuoShortname = "wanglijuan"
+    postSections = ["post"]
+
 
 # Create custom menu entries by defining a label and a link for
 # them. Since you can also link posts, you've the option the
